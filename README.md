@@ -22,3 +22,12 @@
 ### 4: Результат написаного коду:
 
 ![alt text](https://github.com/Oleksii-dot278/Laboratory-work-8/blob/main/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-03-26%20193433.png)
+
+
+## Робота у віртуальному середовищі:
+
+### 1: Ось що вивело в терміналі остання команда:
+
+![alt text](https://github.com/Oleksii-dot278/Laboratory-work-8/blob/main/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-03-26%20194847.png)
+
+### Чому? Бо коли я прописав команду deactivate, мене вивело в глобальне середовище python, і так як я уже юзав pip раніше, воно вивело мені саме цю інформацію.
